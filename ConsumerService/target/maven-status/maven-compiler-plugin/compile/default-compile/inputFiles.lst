@@ -1,0 +1,5 @@
+/Users/ayoubrezzouk/Desktop/CodeProjects/Kafka/ConsumerService/src/main/java/com/appsdeveloperblog/ws/consumerservice/ConsumerServiceApplication.java
+/Users/ayoubrezzouk/Desktop/CodeProjects/Kafka/ConsumerService/src/main/java/com/appsdeveloperblog/ws/consumerservice/config/kafkaConsumerConfig.java
+/Users/ayoubrezzouk/Desktop/CodeProjects/Kafka/ConsumerService/src/main/java/com/appsdeveloperblog/ws/consumerservice/error/NotRetryableException.java
+/Users/ayoubrezzouk/Desktop/CodeProjects/Kafka/ConsumerService/src/main/java/com/appsdeveloperblog/ws/consumerservice/error/RetryableException.java
+/Users/ayoubrezzouk/Desktop/CodeProjects/Kafka/ConsumerService/src/main/java/com/appsdeveloperblog/ws/consumerservice/handler/ProductCreatedEventHandler.java
